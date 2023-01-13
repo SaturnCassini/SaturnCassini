@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaturnCassini
+- 👋 Hi, I’m @SaturnCassini, building https://saturnseries.com
 - 👀 I’m interested in web3, python and vyper.
 - 🪐I’m currently learning vyper lang
 - 🤍I’m looking to collaborate on other smart contracts
